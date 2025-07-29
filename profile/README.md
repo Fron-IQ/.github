@@ -1,18 +1,8 @@
 # 🚀 FronIQ - AI-Powered Frontend Learning Platform
 
-<div align="center">
 
 **Master Frontend Technologies Through Intelligent Learning**
 
-[![Contributors](https://img.shields.io/github/contributors/froniq/froniq?color=green)](https://github.com/Fron-IQ/Froniq-frontend-/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/froniq/froniq?style=social)](https://github.com/Fron-IQ/Froniq-frontend)
-[![Forks](https://img.shields.io/github/forks/froniq/froniq?style=social)](https://github.com/Fron-IQ/Froniq-frontend/network/members)
-
-[🌐 Live Demo](https://froniq.dev) • [💬 Discord](https://discord.gg/KrKVaRjG) • [𝕏 Twitter](https://x.com/fron_iq)
-
-</div>
-
----
 
 ## 🌟 What is FronIQ?
 
@@ -79,7 +69,6 @@ PostgreSQL Database
 SQLAlchemy ORM
 Flask-JWT-Extended
 ```
-
 **AI & Learning Engine**
 ```
 OpenAI GPT API Integration
@@ -104,113 +93,11 @@ ESLint + Prettier + Husky
 📦 FronIQ Organization
 ├── 🎨 froniq-frontend/          # Next.js learning platform
 ├── ⚙️ froniq-backend/           # Flask API server
-├── 🤖 froniq-ai-engine/         # AI tutoring and chat system
-├── 🧪 froniq-code-runner/       # In-browser code execution engine
-├── 📚 froniq-curriculum/        # Learning content and questions
-├── 🎯 froniq-challenges/        # Coding challenges and projects
-├── 📊 froniq-analytics/         # Learning progress and analytics
-├── 🎨 froniq-ui-components/     # Shared UI component library
-└── 📚 froniq-docs/              # Documentation and guides
+└── 📚 contribution_docs/        # how to contribute to projects
 ```
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ 
-- Python 3.9+
-- PostgreSQL 14+
-- npm or yarn
-- Git
-
-### Frontend Setup
-
-```bash
-# Clone the frontend repository
-git clone https://github.com/froniq/froniq-frontend.git
-cd froniq-frontend
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-
-# Start development server
-npm run dev
-
-# Open browser at http://localhost:3000
-```
-
-### Backend Setup
-
-```bash
-# Clone the backend repository
-git clone https://github.com/froniq/froniq-backend.git
-cd froniq-backend
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Set up environment variables
-cp .env.example .env
-
-# Set up database
-flask db upgrade
-
-# Start development server
-flask run
-
-# API available at http://localhost:5000
-```
-
----
-
-## 📊 Community Stats
-
-<div align="center">
-
-| 📈 Metric | 📊 Count |
-|-----------|----------|
-| Active Learners | 2+ |
-| Questions Available | 500+ |
-| Code Challenges | 20+ |
-| GitHub Stars | none |
-| Discord Members | 3+ |
-
-</div>
-
----
-
-## 🛣️ Roadmap
-
-### 🎯 Current Focus (Q1 2024)
-- [ ] Advanced React concepts and patterns
-- [ ] TypeScript integration and best practices  
-- [ ] Performance optimization techniques
-- [ ] Accessibility (a11y) comprehensive guide
-- [ ] Modern CSS features and methodologies
-
-### 🚀 Next Phase (Q2 2024)
-- [ ] Vue.js 3 complete curriculum
-- [ ] Advanced JavaScript concepts
-- [ ] Frontend testing strategies
-- [ ] Build tools and bundlers deep dive
-- [ ] Progressive Web Apps (PWA) mastery
-
-### 🌟 Future Plans (Q3-Q4 2024)
-- [ ] Angular framework integration
-- [ ] Svelte/SvelteKit curriculum
-- [ ] Frontend architecture patterns
-- [ ] Micro-frontends and module federation
-- [ ] Advanced animation and interactions
-
----
 
 ## 📞 Get Involved
 
@@ -220,13 +107,6 @@ flask run
 - **Reddit**: Join [r/froniq](https://reddit.com/r/froniq) for community discussions
 - **LinkedIn**: Connect with us on [LinkedIn](https://linkedin.com/company/froniq)
 
-### 📅 Weekly Events
-- **Monday**: Code Review Sessions
-- **Wednesday**: Learning Path Planning
-- **Friday**: Community Showcase & Demo
-- **Saturday**: Open Source Contribution Workshop
-
----
 
 ## 📄 License & Legal
 
@@ -237,18 +117,6 @@ FronIQ is open source software licensed under the [MIT License](LICENSE). This m
 - ✅ Create derivative works
 - ✅ Sell applications built with FronIQ
 
-### Attribution
-While not required, we appreciate attribution and would love to hear about projects built with FronIQ!
-
----
-
-### 🙏 Acknowledgments
-
-### Special Thanks
-- The open source community for inspiration and support
-- Frontend developers worldwide who share knowledge freely
-- Beta testers and early adopters who provided valuable feedback
-- Educational technology pioneers who paved the way
 
 ### Sponsors & Supporters
 Interested in sponsoring FronIQ? [Contact us](malto:froniq7@gmail.com) to learn about sponsorship opportunities.
